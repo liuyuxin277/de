@@ -6,5 +6,7 @@ public class GitDemo1 {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
+        System.out.println("git");
+        System.out.println("git");
     }
 }
