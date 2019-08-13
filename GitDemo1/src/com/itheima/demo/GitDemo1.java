@@ -6,9 +6,9 @@ public class GitDemo1 {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
-        System.out.println("git");
-        System.out.println("git");
-        System.out.println("git");
+        long l = System.currentTimeMillis();
+        System.out.println(l);
         System.out.println("git");
     }
+
 }
